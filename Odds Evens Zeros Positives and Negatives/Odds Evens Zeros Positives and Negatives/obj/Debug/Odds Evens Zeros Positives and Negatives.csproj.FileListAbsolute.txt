@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Odds Evens Zeros Positives and Negatives\Odds Evens Zeros Positives and Negatives\bin\Debug\Odds Evens Zeros Positives and Negatives.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Odds Evens Zeros Positives and Negatives\Odds Evens Zeros Positives and Negatives\bin\Debug\Odds Evens Zeros Positives and Negatives.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Odds Evens Zeros Positives and Negatives\Odds Evens Zeros Positives and Negatives\bin\Debug\Odds Evens Zeros Positives and Negatives.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Odds Evens Zeros Positives and Negatives\Odds Evens Zeros Positives and Negatives\obj\Debug\Odds Evens Zeros Positives and Negatives.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Odds Evens Zeros Positives and Negatives\Odds Evens Zeros Positives and Negatives\obj\Debug\Odds Evens Zeros Positives and Negatives.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Odds Evens Zeros Positives and Negatives\Odds Evens Zeros Positives and Negatives\obj\Debug\Odds Evens Zeros Positives and Negatives.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Odds Evens Zeros Positives and Negatives\Odds Evens Zeros Positives and Negatives\obj\Debug\Odds Evens Zeros Positives and Negatives.pdb
